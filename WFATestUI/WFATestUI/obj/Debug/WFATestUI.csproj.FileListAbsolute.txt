@@ -1,0 +1,16 @@
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\WFATestUI.exe.config
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\WFATestUI.exe
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\WFATestUI.pdb
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.csprojResolveAssemblyReference.cache
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.Form1.resources
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.Properties.Resources.resources
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.csproj.GenerateResource.Cache
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.exe
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.pdb
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.UserControl1.resources
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\MetroFramework.dll
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.Form2.resources
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.Form3.resources
+C:\Users\HASIB\Desktop\del\WFATestUI\WFATestUI\obj\Debug\WFATestUI.Form4.resources

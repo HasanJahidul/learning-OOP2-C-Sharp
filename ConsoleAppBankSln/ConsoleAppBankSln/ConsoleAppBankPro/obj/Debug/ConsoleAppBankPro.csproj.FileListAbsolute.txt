@@ -1,0 +1,6 @@
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\bin\Debug\ConsoleAppBankPro.exe.config
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\bin\Debug\ConsoleAppBankPro.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\bin\Debug\ConsoleAppBankPro.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\obj\Debug\ConsoleAppBankPro.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\obj\Debug\ConsoleAppBankPro.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppBankSln\ConsoleAppBankPro\obj\Debug\ConsoleAppBankPro.pdb

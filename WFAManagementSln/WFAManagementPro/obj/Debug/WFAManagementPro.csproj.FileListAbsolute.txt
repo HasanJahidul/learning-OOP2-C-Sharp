@@ -1,0 +1,10 @@
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\bin\Debug\WFAManagementPro.exe.config
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.FormLogin.resources
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.Properties.Resources.resources
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.csproj.GenerateResource.Cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\bin\Debug\WFAManagementPro.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\bin\Debug\WFAManagementPro.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\WFAManagementSln\WFAManagementPro\obj\Debug\WFAManagementPro.FormDashboard.resources

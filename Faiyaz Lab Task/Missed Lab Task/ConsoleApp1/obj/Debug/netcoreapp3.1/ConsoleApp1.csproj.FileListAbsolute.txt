@@ -1,0 +1,13 @@
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\AIUB\C#\Faiyaz Lab Task\Missed Lab Task\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

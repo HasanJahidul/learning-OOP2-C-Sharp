@@ -1,0 +1,53 @@
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\x86\Debug\Hospital.exe.config
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\x86\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\x86\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.csprojResolveAssemblyReference.cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Book_Appointmentcs.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Dashboard.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Doctor_schedule.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Form1.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Appionment_detail.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.Properties.Resources.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.csproj.GenerateResource.Cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\x86\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\x86\Debug\Hospital.exe.config
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\x86\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\x86\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.csprojResolveAssemblyReference.cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Book_Appointmentcs.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Dashboard.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Doctor_schedule.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Form1.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Appionment_detail.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.Properties.Resources.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\x86\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\bin\x86\Debug\Hospital.exe.config
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.exe
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.pdb
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\bin\x86\Debug\Hospital.exe
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\bin\x86\Debug\Hospital.pdb
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Book_Appointmentcs.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Dashboard.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Doctor_schedule.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Form1.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Appionment_detail.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Properties.Resources.resources
+C:\Users\Ahafid\Desktop\Clinic Management System\Clinic\obj\x86\Debug\Hospital.csproj.GenerateResource.Cache
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\bin\x86\Debug\Hospital.exe.config
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\bin\x86\Debug\Hospital.exe
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\bin\x86\Debug\Hospital.pdb
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.csprojAssemblyReference.cache
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Book_Appointmentcs.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Dashboard.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Doctor_schedule.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Form1.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Appionment_detail.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.Properties.Resources.resources
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.csproj.GenerateResource.cache
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.exe
+F:\AIUB\C#\Project research\Clinic Management System\Clinic\obj\x86\Debug\Hospital.pdb

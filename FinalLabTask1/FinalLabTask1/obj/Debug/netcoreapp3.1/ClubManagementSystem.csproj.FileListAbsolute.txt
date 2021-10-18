@@ -1,0 +1,13 @@
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.exe
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.deps.json
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.runtimeconfig.json
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.runtimeconfig.dev.json
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.dll
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\bin\Debug\netcoreapp3.1\ClubManagementSystem.pdb
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.csprojAssemblyReference.cache
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.AssemblyInfoInputs.cache
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.AssemblyInfo.cs
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.dll
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.pdb
+F:\AIUB\C#\FinalLabTask1\FinalLabTask1\obj\Debug\netcoreapp3.1\ClubManagementSystem.genruntimeconfig.cache

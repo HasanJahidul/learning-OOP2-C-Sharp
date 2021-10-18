@@ -1,0 +1,13 @@
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.csprojAssemblyReference.cache
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.AssemblyInfoInputs.cache
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.AssemblyInfo.cs
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.exe
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.deps.json
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.runtimeconfig.json
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.runtimeconfig.dev.json
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.dll
+F:\AIUB\C#\Task\LabTask2\LabTask2\bin\Debug\netcoreapp3.1\LabTask2.pdb
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.dll
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.pdb
+F:\AIUB\C#\Task\LabTask2\LabTask2\obj\Debug\netcoreapp3.1\LabTask2.genruntimeconfig.cache

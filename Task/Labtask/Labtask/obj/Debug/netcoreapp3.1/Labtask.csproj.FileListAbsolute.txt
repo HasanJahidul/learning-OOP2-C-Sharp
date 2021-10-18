@@ -1,0 +1,13 @@
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.exe
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.deps.json
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.runtimeconfig.json
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.runtimeconfig.dev.json
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.dll
+F:\AIUB\C#\Task\Labtask\Labtask\bin\Debug\netcoreapp3.1\Labtask.pdb
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.csprojAssemblyReference.cache
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.AssemblyInfoInputs.cache
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.AssemblyInfo.cs
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.csproj.CoreCompileInputs.cache
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.dll
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.pdb
+F:\AIUB\C#\Task\Labtask\Labtask\obj\Debug\netcoreapp3.1\Labtask.genruntimeconfig.cache

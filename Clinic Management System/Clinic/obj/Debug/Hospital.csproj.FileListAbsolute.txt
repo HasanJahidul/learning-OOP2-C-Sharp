@@ -1,0 +1,57 @@
+F:\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.exe
+F:\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.exe.config
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.admit.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.assignroom.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.bloodbank.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Book_Appointmentcs.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.book_info.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Dashboard.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Doctor_schedule.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Form1.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Relese.resources
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.exe
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.pdb
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+F:\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.pdb
+F:\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Appionment_detail.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.exe.config
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\mscorlib.dll
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\normidna.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\normnfc.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\normnfd.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\normnfkc.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\bin\Debug\normnfkd.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Book_Appointmentcs.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Dashboard.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Doctor_schedule.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Form1.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Appionment_detail.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\Hospital.exe.config
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\Hospital.pdb
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\mscorlib.dll
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\normidna.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\normnfc.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\normnfd.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\normnfkc.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\bin\Debug\normnfkd.nlp
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Book_Appointmentcs.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Dashboard.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Doctor_schedule.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Form1.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Appionment_detail.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.Properties.Resources.resources
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.csproj.GenerateResource.Cache
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.exe
+E:\c# share-project\c# share\project faall\project faall\Hospital_Management_System\Clinic\obj\Debug\Hospital.pdb

@@ -1,0 +1,6 @@
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe.config
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\bin\Debug\ConsoleAppStruct.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStruct\ConsoleAppStruct\obj\Debug\ConsoleAppStruct.pdb
